@@ -12,9 +12,7 @@ It’s designed to help learners improve problem-solving and prepare for coding 
 - Dynamic Programming
 
 ## 💻 Languages
-- C++
 - Java
-- Python
 
 ## ▶ How to Use
 1. Clone the repo  
