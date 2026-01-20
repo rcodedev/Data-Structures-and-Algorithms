@@ -4,6 +4,7 @@ This repository contains implementations of common Data Structures and Algorithm
 It’s designed to help learners improve problem-solving and prepare for coding interviews.
 
 ## 📚 Topics Covered
+- Recursion
 - Arrays
 - Linked Lists
 - Stacks & Queues
